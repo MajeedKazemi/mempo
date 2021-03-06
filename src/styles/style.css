@@ -1,0 +1,38 @@
+.level-container {
+}
+
+.button {
+  background-color: white;
+  color: black;
+  border-radius: 3px;
+
+  border-color: grey;
+  border-width: 1px;
+  border-style: solid;
+
+  padding: 5px 15px 5px 15px;
+}
+
+.selected {
+  background-color: green;
+  color: white;
+}
+
+.sher-container {
+  border-radius: 5px;
+  margin: 5px;
+
+  border-color: grey;
+  border-width: 1px;
+  border-style: solid;
+
+  padding: 10px;
+}
+
+.red-text {
+  color: red;
+}
+
+.green-text {
+  color: green;
+}
